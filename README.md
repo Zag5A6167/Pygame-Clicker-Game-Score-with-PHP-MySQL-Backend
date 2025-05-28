@@ -1,7 +1,9 @@
 # Pygame-Clicker-Game-Score-with-PHP-MySQL-Backend
 
-| [x] Task  | screen ,text input, confirm button |
-| [] Task  | connect DB |
-| [] Task  | clicker scene, game player click untill time left |
-| [] Task  | show highest score clicker |
-| [] Task  | restart game |
+| Task                       | Description                               |
+|----------------------------|-------------------------------------------|
+| [x] Task: Initial Setup    | screen, text input, confirm button        |
+| [ ] Task: Database Connect | connect DB                                |
+| [ ] Task: Clicker Game     | clicker scene, game player click until time left |
+| [ ] Task: High Score Display | show highest score clicker                |
+| [ ] Task: Game Restart     | restart game                              |
